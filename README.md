@@ -1,6 +1,6 @@
-#Rovya
+# Rovya
 
-Balance every role. Without losing yourself.
+Balance every role. Without losing yourself...
 Rovya is a mental wellness and life management app designed for women juggling multiple roles—career, family, and personal life.
 
 🧠 Problem
